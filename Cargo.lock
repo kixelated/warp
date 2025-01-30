@@ -1276,7 +1276,7 @@ dependencies = [
 
 [[package]]
 name = "moq-clock"
-version = "0.5.23"
+version = "0.5.24"
 dependencies = [
  "anyhow",
  "chrono",
@@ -1290,7 +1290,7 @@ dependencies = [
 
 [[package]]
 name = "moq-karp"
-version = "0.13.0"
+version = "0.13.1"
 dependencies = [
  "anyhow",
  "bytes",
@@ -1316,7 +1316,7 @@ dependencies = [
 
 [[package]]
 name = "moq-native"
-version = "0.6.5"
+version = "0.6.6"
 dependencies = [
  "anyhow",
  "clap",
@@ -1341,7 +1341,7 @@ dependencies = [
 
 [[package]]
 name = "moq-relay"
-version = "0.6.21"
+version = "0.6.22"
 dependencies = [
  "anyhow",
  "axum",
@@ -1358,7 +1358,7 @@ dependencies = [
 
 [[package]]
 name = "moq-transfork"
-version = "0.10.0"
+version = "0.10.1"
 dependencies = [
  "bytes",
  "futures",
@@ -1373,7 +1373,7 @@ dependencies = [
 
 [[package]]
 name = "moq-web"
-version = "0.4.3"
+version = "0.4.4"
 dependencies = [
  "baton",
  "console_error_panic_hook",
@@ -2441,9 +2441,9 @@ checksum = "0dd7358ecb8fc2f8d014bf86f6f638ce72ba252a2c3a2572f2a795f1d23efb41"
 
 [[package]]
 name = "toml_edit"
-version = "0.22.22"
+version = "0.22.23"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "4ae48d6208a266e853d946088ed816055e556cc6028c5e8e2b84d9fa5dd7c7f5"
+checksum = "02a8b472d1a3d7c18e2d61a489aee3453fd9031c33e4f55bd533f4a7adca1bee"
 dependencies = [
  "indexmap 2.7.1",
  "toml_datetime",
@@ -3036,9 +3036,9 @@ checksum = "589f6da84c646204747d1270a2a5661ea66ed1cced2631d546fdfb155959f9ec"
 
 [[package]]
 name = "winnow"
-version = "0.6.26"
+version = "0.7.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "1e90edd2ac1aa278a5c4599b1d89cf03074b610800f866d4026dc199d7929a28"
+checksum = "7e49d2d35d3fad69b39b94139037ecfb4f359f08958b9c11e7315ce770462419"
 dependencies = [
  "memchr",
 ]
