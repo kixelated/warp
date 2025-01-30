@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.10.1](https://github.com/kixelated/moq-rs/compare/moq-transfork-v0.10.0...moq-transfork-v0.10.1) - 2025-01-30
+
+### Other
+
+- update Cargo.lock dependencies
+
 ## [0.10.0](https://github.com/kixelated/moq-rs/compare/moq-transfork-v0.9.0...moq-transfork-v0.10.0) - 2025-01-30
 
 ### Other
